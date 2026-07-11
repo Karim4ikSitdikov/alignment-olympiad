@@ -1,0 +1,5 @@
+__MACOSX/
+*.DS_Store
+ml-olympiad-red-task/
+*.zip
+.ipynb_checkpoints/
